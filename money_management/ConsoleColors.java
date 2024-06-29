@@ -1,4 +1,4 @@
-package money_management;
+package java_learn.money_management;
 
 public class ConsoleColors {
     public static final String RESET = "\033[0m";

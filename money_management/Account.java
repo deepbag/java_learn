@@ -1,4 +1,4 @@
-package money_management;
+package java_learn.money_management;
 
 import java.util.ArrayList;
 import java.util.Arrays;
